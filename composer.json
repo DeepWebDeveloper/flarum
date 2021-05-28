@@ -27,7 +27,7 @@
         "flarum/auth-github": "^0.1.0",
         "flarum/auth-twitter": "^0.1.0",
         "flarum/bbcode": "^0.1.0",
-        "flarum/emoji": "^0.1.0",
+        "flarum/emoji": "^0.1.0-beta",
         "flarum/lang-english": "^0.1.0",
         "flarum/flags": "^0.1.0",
         "flarum/likes": "^0.1.0",
